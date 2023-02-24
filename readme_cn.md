@@ -31,7 +31,8 @@ Java
 
    `git clone https://github.com/yzsong06/replit_zfile && mv -b replit_zfile/* ./ && mv -b replit_zfile/.[^.]* ./ && rm -rf *~ && rm -rf replit_zfile`
 
-3.等待指令运行完成后，删除main.sh中指定指令，然后“Run“运行该项目
+3.等待指令运行完成后，“Run“运行该项目
+4.项目正常启动后，按照main.sh中指示，删除main.sh中指定指令，否则会造成重复下载
 
 #### 警告
 项目重启会导致数据库丢失，请在配置文件（WEB-INF/classes/application.properties）中手动把本地Sqlite3数据库路径条目（zfile.db.path=${user.home}/.zfile-v4/db/zfile）调整为（zfile.db.path=${user.home}/（你的replit项目名称）/.zfile-v4/db/zfile）
