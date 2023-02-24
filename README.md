@@ -1,4 +1,5 @@
 # replit_zfile
+[中文版readme](https://github.com/yzsong06/replit_zfile/edit/main/readme_cn.md)
 
 Zfile on replit.
 
