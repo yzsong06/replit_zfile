@@ -22,7 +22,6 @@ Java
   <img alt="Run on Repl.it" src="https://replit.com/badge/github/github/zfile" style="height: 40px; width: 190px;" />
 </a>
 
-If you use mobile phone,please set the UA of Browser as "Desktop" or maybe replit can not work.
 
 ### 针对教育版:
 
